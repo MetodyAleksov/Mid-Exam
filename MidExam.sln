@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidExam", "MidExam\MidExam.csproj", "{3137F64F-755A-4BCD-BDB1-2072F9A8D608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commands", "Commands\Commands.csproj", "{A885D7D6-8D05-463C-9641-C7CB4DD1A88A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckOfCards", "DeckOfCards\DeckOfCards.csproj", "{ED77AF7B-D19F-468E-815C-CB6EB3BF8AF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3137F64F-755A-4BCD-BDB1-2072F9A8D608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3137F64F-755A-4BCD-BDB1-2072F9A8D608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3137F64F-755A-4BCD-BDB1-2072F9A8D608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3137F64F-755A-4BCD-BDB1-2072F9A8D608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A885D7D6-8D05-463C-9641-C7CB4DD1A88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A885D7D6-8D05-463C-9641-C7CB4DD1A88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A885D7D6-8D05-463C-9641-C7CB4DD1A88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A885D7D6-8D05-463C-9641-C7CB4DD1A88A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED77AF7B-D19F-468E-815C-CB6EB3BF8AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED77AF7B-D19F-468E-815C-CB6EB3BF8AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED77AF7B-D19F-468E-815C-CB6EB3BF8AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED77AF7B-D19F-468E-815C-CB6EB3BF8AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B15D664-E9F3-41CA-BD76-231119D7C8FB}
+	EndGlobalSection
+EndGlobal
